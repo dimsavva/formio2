@@ -1,7 +1,7 @@
 {
   "port": 8080,
   "appPort": 8081,
-  "host": "0.0.0.0",
+  "host": "0.0.0.0:8080",
   "protocol": "http",
   "domain": "http://app-be7b965a-17a4-4345-9bc3-8abdf6f9a5bc.cleverapps.io",
   "basePath": "",
