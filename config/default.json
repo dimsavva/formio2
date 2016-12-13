@@ -1,6 +1,6 @@
 {
-  "port": 8080
-  "appPort": 8081
+  "port": 8080,
+  "appPort": 8081,
   "host": "buodm3yqg0h8lzt-mongodb.services.clever-cloud.com",
   "protocol": "http",
   "domain": "http://app-6fe65f8e-a647-4168-a4ee-8f1554dc0109.cleverapps.io:8080",
