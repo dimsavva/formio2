@@ -1,12 +1,12 @@
 {
   "port": 3001,
   "appPort": 8080,
-  "host": "localhost:3001",
+  "host": "buodm3yqg0h8lzt-mongodb.services.clever-cloud.com",
   "protocol": "http",
   "domain": "http://localhost:3001",
   "basePath": "",
-  "mongo": "mongodb://localhost:27017/formioapp",
-  "mongoSecret": "--- change me now ---",
+  "mongo": "mongodb://ugtaj1tphqjxjuk:pG89rcRINPkAUPjBWGmU@buodm3yqg0h8lzt-mongodb.services.clever-cloud.com:27017/buodm3yqg0h8lzt",
+  "mongoSecret": "pG89rcRINPkAUPjBWGmU",
   "reservedForms": ["submission", "exists", "export", "role", "current", "logout", "import", "form", "access"],
   "jwt": {
     "secret": "--- change me now ---",
