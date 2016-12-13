@@ -9,7 +9,7 @@
   "mongoSecret": "pG89rcRINPkAUPjBWGmU",
   "reservedForms": ["submission", "exists", "export", "role", "current", "logout", "import", "form", "access"],
   "jwt": {
-    "secret": "--- chang e me now ---",
+    "secret": "--- change me now ---",
     "expireTime": 240
   },
   "email": {
