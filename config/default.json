@@ -1,9 +1,9 @@
 {
   "port": 8080,
   "appPort": 8081,
-  "host": "buodm3yqg0h8lzt-mongodb.services.clever-cloud.com",
+  "host": "0.0.0.0:8080",
   "protocol": "http",
-  "domain": "http://app-6fe65f8e-a647-4168-a4ee-8f1554dc0109.cleverapps.io",
+  "domain": "http://app-be7b965a-17a4-4345-9bc3-8abdf6f9a5bc.cleverapps.io",
   "basePath": "",
   "mongo": "mongodb://ugtaj1tphqjxjuk:pG89rcRINPkAUPjBWGmU@buodm3yqg0h8lzt-mongodb.services.clever-cloud.com:27017/buodm3yqg0h8lzt",
   "mongoSecret": "pG89rcRINPkAUPjBWGmU",
